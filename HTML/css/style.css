@@ -34,6 +34,7 @@ body {
     line-height: 1.6;
     color: #ffffff;
     background-color: #0a4263;
+    padding: 40px
 
 }
 
@@ -43,7 +44,7 @@ header h1{
 }
 
 main{
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
@@ -70,16 +71,23 @@ a:hover{
     color: rgb(156, 49, 49);
 }
 
+ul {
+    padding-bottom: 40px;
+}
+
 footer {
-    padding: 40px;
     background-color:#043552;
 }
 
 
+
 footer .content{
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
+    padding: 20px;
 
 }
 
-
+/* wenn bildschirm kleiner wird kann man mit @media 
+(max-width: 600px) ein neues css da drin aufmachen 
+und andere sachen definieren */
