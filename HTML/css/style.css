@@ -8,13 +8,13 @@
     padding: 0;
     box-sizing: border-box;
     font-family:"Baloo 2";
-    background-color: #0a4263;
+    
 }
 
 header{
     text-align: center;
     color: #ffffff;
-
+    background-color: #043552;
     padding: 20px;
 }
 header .pfp{
@@ -33,7 +33,8 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #ffffff;
-    
+    background-color: #0a4263;
+
 }
 
 header h1{
@@ -68,4 +69,17 @@ a {
 a:hover{
     color: rgb(156, 49, 49);
 }
+
+footer {
+    padding: 40px;
+    background-color:#043552;
+}
+
+
+footer .content{
+    width: 800px;
+    margin: 0 auto;
+
+}
+
 
