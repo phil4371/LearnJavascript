@@ -1,0 +1,49 @@
+{
+  "niche_name": "KI-Tools & Automatisierung Deutschland",
+  "tone": "neugierig, enthusiastisch, praxisnah — zeigt echten Mehrwert statt Hype",
+  "account_persona": "Tech-Enthusiast der KI-Tools im Alltag testet und erklärt",
+  "disclaimer": "",
+  "image_style": "Modern tech UI screenshot style, dark theme with neon accents, clean interface mockups, AI visualization, purple and cyan color scheme, professional German tech education",
+  "hashtags": [
+    "#kitools", "#chatgpt", "#artificialintelligence", "#automatisierung",
+    "#künstlicheintelligenz", "#produktivität", "#promptengineering", "#midjourney",
+    "#chatgptdeutsch", "#claude", "#aitools", "#techdeutschland", "#digitalisierung",
+    "#kicheatsheet", "#notionai", "#arbeitseffizienz", "#aiworkflow",
+    "#prompttipps", "#kierklärt", "#chatgpttipps", "#gemini", "#llm",
+    "#technologie", "#zukunftderarbeit", "#airevolution", "#kihacks",
+    "#textgenerator", "#bildgenerator"
+  ],
+  "content_pillars": [
+    {
+      "name": "Tool-Reviews",
+      "description": "ChatGPT vs. Claude vs. Gemini — ehrliche Vergleiche und Empfehlungen",
+      "has_affiliate": true
+    },
+    {
+      "name": "Prompt-Tutorials",
+      "description": "Konkrete Prompts für Produktivität, Texte schreiben, Code — copy-paste ready",
+      "has_affiliate": false
+    },
+    {
+      "name": "Workflow-Automatisierung",
+      "description": "Wie man mit KI Stunden spart — E-Mails, Social Media, Berichte",
+      "has_affiliate": true
+    },
+    {
+      "name": "KI-News",
+      "description": "Aktuelle KI-Entwicklungen einfach erklärt — was ist wichtig, was ist Hype",
+      "has_affiliate": false
+    },
+    {
+      "name": "Bildgeneratoren",
+      "description": "Midjourney, DALL-E, Stable Diffusion — Tipps für bessere Bilder",
+      "has_affiliate": true
+    }
+  ],
+  "affiliate_ctas": {
+    "Tool-Reviews": "Alle Tool-Links im Bio 👆",
+    "Workflow-Automatisierung": "Kostenlos starten — Link in Bio 👆",
+    "Bildgeneratoren": "Tool-Link in Bio 👆",
+    "default": "Mehr KI-Tools — Link in Bio 👆"
+  }
+}

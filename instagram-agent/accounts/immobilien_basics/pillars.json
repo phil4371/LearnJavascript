@@ -1,0 +1,48 @@
+{
+  "niche_name": "Immobilien-Investing Basics Deutschland",
+  "tone": "sachlich, fundiert, realistisch — keine Versprechen von schnellem Reichtum",
+  "account_persona": "Immobilien-Einsteiger der seinen Lernweg teilt und Grundlagen erklärt",
+  "disclaimer": "Keine Anlageberatung. Immobilien-Investment trägt Risiken. Eigene Recherche notwendig.",
+  "image_style": "Professional real estate infographic, clean architecture visualization, German city skyline style, navy blue and gold color scheme, property investment charts, no photos of actual properties",
+  "hashtags": [
+    "#immobilien", "#immo", "#immobilieninvestment", "#immobilienmarkt", "#deutschland",
+    "#wohnung", "#haus", "#immobilienrente", "#passiveseinkommen", "#cashflow",
+    "#hausbau", "#immobilienwissen", "#eigentumsbildung", "#mieteinnahmen",
+    "#immobilienfinanzierung", "#bankdarlehen", "#eigenkapital", "#rendite",
+    "#vermietung", "#immoberatung", "#immowandern", "#kaufensparren",
+    "#immovermögen", "#baugeld", "#zinsen", "#anlageimmobilie",
+    "#immobilientipps", "#immobiliencoach"
+  ],
+  "content_pillars": [
+    {
+      "name": "Einstieg & Grundlagen",
+      "description": "Wie fange ich an, welche Eigenkapital-Quote brauche ich, erste Schritte",
+      "has_affiliate": false
+    },
+    {
+      "name": "Finanzierung & Zinsen",
+      "description": "Baufinanzierung, aktuelle Zinsvergleiche, Annuitätendarlehen erklärt",
+      "has_affiliate": true
+    },
+    {
+      "name": "Zahlen & Rendite",
+      "description": "Brutto/Netto-Mietrendite berechnen, Kaufpreisfaktor, Leerstandsrisiko",
+      "has_affiliate": false
+    },
+    {
+      "name": "Steuern & Recht",
+      "description": "Abschreibungen (AfA), Spekulationsfrist, Mietrecht-Basics",
+      "has_affiliate": false
+    },
+    {
+      "name": "REITs & Alternativen",
+      "description": "Für alle die kein Kapital für physische Immobilien haben — REITs, Crowdinvesting",
+      "has_affiliate": true
+    }
+  ],
+  "affiliate_ctas": {
+    "Finanzierung & Zinsen": "Kostenloser Zinsvergleich — Link in Bio 👆",
+    "REITs & Alternativen": "Jetzt anlegen — Link in Bio 👆",
+    "default": "Mehr Immobilien-Wissen — Link in Bio 👆"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "niche_name": "ETF & Finanzen Deutschland",
+  "tone": "freundlich, klar, auf Augenhöhe — kein Fachchinesisch, aber fundiert",
+  "account_persona": "junger Finanz-Erklärer, der selbst investiert und seine Erfahrungen teilt",
+  "disclaimer": "Keine Anlageberatung. Alle Inhalte dienen nur zur Information.",
+  "image_style": "Clean minimalist financial infographic, modern flat design, blue and white color scheme, professional German financial education, no people, no logos, data visualization",
+  "hashtags": [
+    "#etf", "#aktien", "#finanzen", "#investieren", "#sparplan", "#passiveseinkommen",
+    "#vermögensaufbau", "#msciworld", "#traderepublic", "#scalablecapital",
+    "#geldanlage", "#börse", "#finanzbildung", "#etfsparplan", "#langzeitinvestieren",
+    "#finanzwissen", "#zinseszins", "#depoteröffnen", "#indexfonds", "#dividenden",
+    "#finanzielle_freiheit", "#kapitalmarkt", "#rendite", "#portfolio", "#etfanleger",
+    "#sparenleichtgemacht", "#frühinvestieren", "#vermögensplanung"
+  ],
+  "content_pillars": [
+    {
+      "name": "Broker-Vergleiche",
+      "description": "Trade Republic vs. Scalable Capital vs. comdirect — Depotvergleiche, Kosten, Vor/Nachteile",
+      "has_affiliate": true
+    },
+    {
+      "name": "ETF-Grundlagen",
+      "description": "MSCI World, FTSE All-World, S&P 500 erklärt — für Einsteiger",
+      "has_affiliate": false
+    },
+    {
+      "name": "Steuer-Hacks",
+      "description": "Freistellungsauftrag, Vorabpauschale, Kapitalertragsteuer — praktische Tipps",
+      "has_affiliate": false
+    },
+    {
+      "name": "Fehler beim Investieren",
+      "description": "Häufige Anfängerfehler, Panikverkäufe, Market-Timing — was du vermeiden solltest",
+      "has_affiliate": false
+    },
+    {
+      "name": "Zinseszins & Zahlen",
+      "description": "Compound Interest Visualisierungen, Sparrechner-Ergebnisse, 10/20/30-Jahre-Vergleiche",
+      "has_affiliate": false
+    }
+  ],
+  "affiliate_ctas": {
+    "Broker-Vergleiche": "Kostenloses Depot eröffnen — Link in Bio 👆",
+    "ETF-Grundlagen": "Mehr ETF-Tipps im Link in Bio 👆",
+    "default": "Jetzt Depot eröffnen — Link in Bio 👆"
+  }
+}

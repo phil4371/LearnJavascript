@@ -1,0 +1,48 @@
+{
+  "niche_name": "Fitness & Abnehmen Deutschland",
+  "tone": "motivierend, ehrlich, wissenschaftlich fundiert — kein Crash-Diät-Bullshit",
+  "account_persona": "Fitness-Coach der evidenzbasierte Tipps teilt ohne Produkte aufzudrängen",
+  "disclaimer": "Kein medizinischer Rat. Bei gesundheitlichen Fragen bitte Arzt konsultieren.",
+  "image_style": "Clean fitness infographic, energetic colors orange and black, motivational design, workout diagrams, nutrition charts, German fitness education, no stock photos",
+  "hashtags": [
+    "#abnehmen", "#fitness", "#gesundheit", "#training", "#ernährung", "#krafttraining",
+    "#kaloriendefizit", "#abnehmentipps", "#hometraining", "#muskelaufbau",
+    "#diät", "#gewichtsabnahme", "#sportmotivation", "#fitdeutschland",
+    "#gesundleben", "#proteindiet", "#fatburn", "#gymlife", "#fitnessmotivation",
+    "#kalorienzählen", "#intermittentfasting", "#intervallfasten", "#cleanfood",
+    "#bodyweighttraining", "#workoutroutine", "#fitnesscoach", "#abnehmerfolg",
+    "#gewichtsverlust"
+  ],
+  "content_pillars": [
+    {
+      "name": "Ernährungs-Tipps",
+      "description": "Kaloriendefizit, Protein-Optimierung, Mahlzeiten-Planung — einfach erklärt",
+      "has_affiliate": true
+    },
+    {
+      "name": "Training-Guides",
+      "description": "Home-Workout-Pläne, Übungsanleitungen, Trainingsfrequenz",
+      "has_affiliate": false
+    },
+    {
+      "name": "Mythen-Check",
+      "description": "Fitness-Mythen aufgedeckt — Kein Sport nach X Uhr, Muskelkater als Fortschritt, etc.",
+      "has_affiliate": false
+    },
+    {
+      "name": "Produkt-Reviews",
+      "description": "Protein-Pulver, Supplements, Sportausrüstung — ehrliche Bewertungen",
+      "has_affiliate": true
+    },
+    {
+      "name": "Motivation & Mindset",
+      "description": "Durchhalten, Rückschläge überwinden, langfristige Gewohnheiten aufbauen",
+      "has_affiliate": false
+    }
+  ],
+  "affiliate_ctas": {
+    "Produkt-Reviews": "Zum besten Preis — Link in Bio 👆",
+    "Ernährungs-Tipps": "Ernährungsplan — Link in Bio 👆",
+    "default": "Mehr Fitness-Tipps — Link in Bio 👆"
+  }
+}

@@ -1,0 +1,21 @@
+# Secrets — niemals committen
+.env
+.env.shared
+accounts/*/.env
+accounts/*/data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Temporäre Dateien
+*.tmp
+*.log
+logs/
+
+# Assets die zu groß für Git sind
+assets/music/*.mp3

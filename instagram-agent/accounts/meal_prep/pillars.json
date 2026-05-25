@@ -1,0 +1,47 @@
+{
+  "niche_name": "Meal Prep & Kochen Deutschland",
+  "tone": "praktisch, einladend, alltagstauglich — für Menschen die wenig Zeit haben aber gut essen wollen",
+  "account_persona": "Hobbyköchin die Meal Prep für Berufstätige und Familien einfach macht",
+  "disclaimer": "",
+  "image_style": "Appetizing food infographic, warm colors, clean kitchen aesthetic, German home cooking style, recipe cards design, ingredient lists, no actual food photography",
+  "hashtags": [
+    "#mealprep", "#kochen", "#rezepte", "#gesundessen", "#gesunderezepte",
+    "#mealprepdeutschland", "#batchcooking", "#kochenohneStress", "#wocheneinkauf",
+    "#schnellkochen", "#familienküche", "#gesundleben", "#ernährung",
+    "#kochideen", "#fitfood", "#lowcarb", "#vegetarisch", "#vegan",
+    "#mealprepsonntag", "#fitness food", "#instafood", "#foodprepideas",
+    "#kochinspo", "#alltagsküche", "#wenig zeitkochen", "#schnellerezepte",
+    "#küchenorganisation", "#mealplan"
+  ],
+  "content_pillars": [
+    {
+      "name": "Wochenplan-Rezepte",
+      "description": "5 Mahlzeiten in 2 Stunden vorbereiten — konkrete Rezepte und Einkaufslisten",
+      "has_affiliate": false
+    },
+    {
+      "name": "Schnell & Günstig",
+      "description": "Gesunde Mahlzeiten unter 5€/Person — Budget-Kochen ohne Kompromisse",
+      "has_affiliate": false
+    },
+    {
+      "name": "Küchen-Equipment",
+      "description": "Was man wirklich braucht — Meal Prep Container, Messerzubehör, Küchengeräte",
+      "has_affiliate": true
+    },
+    {
+      "name": "Ernährungswissen",
+      "description": "Makronährstoffe, Portionsgrößen, Kalorienplanung für die Woche",
+      "has_affiliate": false
+    },
+    {
+      "name": "Saison & Regional",
+      "description": "Was ist gerade saisonal günstig — monatliche Einkaufsguides",
+      "has_affiliate": false
+    }
+  ],
+  "affiliate_ctas": {
+    "Küchen-Equipment": "Beste Meal Prep Behälter — Link in Bio 👆",
+    "default": "Mehr Rezepte — Link in Bio 👆"
+  }
+}

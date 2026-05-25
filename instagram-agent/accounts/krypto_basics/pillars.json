@@ -1,0 +1,48 @@
+{
+  "niche_name": "Krypto Basics Deutschland",
+  "tone": "nüchtern, skeptisch-optimistisch, ohne FOMO — erklärt Risiken genauso wie Chancen",
+  "account_persona": "Krypto-Einsteiger der gelernt hat nicht auf Hype zu hören und nun Basics erklärt",
+  "disclaimer": "Keine Anlageberatung. Krypto ist hochriskant — nur Geld investieren das man verlieren kann.",
+  "image_style": "Crypto infographic, dark background with orange and white accents, blockchain visualization, clean data charts, German crypto education, no price predictions",
+  "hashtags": [
+    "#krypto", "#bitcoin", "#ethereum", "#kryptowährung", "#blockchain", "#defi",
+    "#btc", "#eth", "#kryptodeutschland", "#cryptogermany", "#hodl",
+    "#kryptoinvestieren", "#kryptotipps", "#kryptoerklärung", "#web3",
+    "#kryptoeinsteiger", "#bitcoindeutschland", "#kryptosteuern",
+    "#satoshi", "#altcoins", "#staking", "#kryptowallet",
+    "#kryptoanfänger", "#dezentral", "#smartcontracts",
+    "#kryptobörse", "#kryptomarkt", "#cryptobasics"
+  ],
+  "content_pillars": [
+    {
+      "name": "Grundlagen erklärt",
+      "description": "Was ist Bitcoin/Ethereum/Blockchain — einfach und ohne Bullshit erklärt",
+      "has_affiliate": false
+    },
+    {
+      "name": "Sicherheit & Wallets",
+      "description": "Hardware-Wallets, Seed-Phrases, Scam-Schutz — das wichtigste für Einsteiger",
+      "has_affiliate": true
+    },
+    {
+      "name": "Börsen-Vergleich",
+      "description": "Kraken vs. Coinbase vs. Bitpanda — wo kauft man sicher in Deutschland",
+      "has_affiliate": true
+    },
+    {
+      "name": "Steuern & Recht DE",
+      "description": "Wie werden Krypto-Gewinne in Deutschland besteuert — Jahresfrist, Verluste",
+      "has_affiliate": false
+    },
+    {
+      "name": "Risiko-Management",
+      "description": "Diversifikation, Position-Sizing, wann verkaufen — ohne emotionale Entscheidungen",
+      "has_affiliate": false
+    }
+  ],
+  "affiliate_ctas": {
+    "Börsen-Vergleich": "Kostenlos registrieren — Link in Bio 👆",
+    "Sicherheit & Wallets": "Hardware-Wallet kaufen — Link in Bio 👆",
+    "default": "Sichere Krypto-Börse — Link in Bio 👆"
+  }
+}

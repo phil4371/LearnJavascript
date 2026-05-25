@@ -1,0 +1,50 @@
+{
+  "niche_name": "Budget-Reisen Deutschland",
+  "tone": "abenteuerlustig, praktisch, ehrlich über Kosten — zeigt dass Reisen nicht teuer sein muss",
+  "account_persona": "Reisebegeisterter der Europa und die Welt mit unter 50€/Tag erkundet",
+  "disclaimer": "",
+  "image_style": "Travel infographic, vibrant adventure colors, clean map visualizations, destination price comparisons, European cities illustrated style, German travel guide aesthetic",
+  "hashtags": [
+    "#budgetreisen", "#reisen", "#günstigurlauben", "#backpacking", "#europa",
+    "#reisehacks", "#traveldeutschland", "#günstigreisen", "#reisetipps",
+    "#urlaubstipps", "#billigreisen", "#flashpacker", "#vanlife",
+    "#interrail", "#bahnreisen", "#flixbus", "#hostel", "#airbnb",
+    "#reiseführer", "#städtereise", "#weekendtrip", "#kurzurlaub",
+    "#reisenohnegeld", "#travelblogger", "#travelinspo", "#travelmoney",
+    "#reisenacheuropa", "#reiseideen"
+  ],
+  "content_pillars": [
+    {
+      "name": "Destinations-Guides",
+      "description": "Konkrete Städte/Länder-Guides: wo übernachten, was kostet es, Geheimtipps",
+      "has_affiliate": true
+    },
+    {
+      "name": "Transport-Hacks",
+      "description": "Günstige Flüge finden, Bahn-Hacks, Busse vs. Fliegen — mit echten Preisen",
+      "has_affiliate": true
+    },
+    {
+      "name": "Budget-Planung",
+      "description": "Wie man ein Reisebudget erstellt und einhaltet — Tagesbudgets für verschiedene Länder",
+      "has_affiliate": false
+    },
+    {
+      "name": "Reise-Tools",
+      "description": "Apps und Websites für günstigere Reisen — Google Flights, Hostelworld, etc.",
+      "has_affiliate": true
+    },
+    {
+      "name": "Sicherheit & Versicherung",
+      "description": "Auslandskrankenversicherung, Gepäckversicherung — was man braucht",
+      "has_affiliate": true
+    }
+  ],
+  "affiliate_ctas": {
+    "Destinations-Guides": "Jetzt günstig buchen — Link in Bio 👆",
+    "Transport-Hacks": "Günstigste Verbindung finden — Link in Bio 👆",
+    "Reise-Tools": "Kostenlos ausprobieren — Link in Bio 👆",
+    "Sicherheit & Versicherung": "Günstige Reiseversicherung — Link in Bio 👆",
+    "default": "Mehr Reise-Tipps — Link in Bio 👆"
+  }
+}

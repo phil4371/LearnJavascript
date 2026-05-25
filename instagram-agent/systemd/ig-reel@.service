@@ -1,0 +1,13 @@
+[Unit]
+Description=Instagram Reel Post — %i
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=pi
+WorkingDirectory=/home/pi/instagram-agent
+ExecStart=/home/pi/instagram-agent/venv/bin/python runners/run_reel.py --account %i
+StandardOutput=append:/home/pi/instagram-agent/logs/%i.log
+StandardError=append:/home/pi/instagram-agent/logs/%i.log
+TimeoutStartSec=300

@@ -1,0 +1,49 @@
+{
+  "niche_name": "Mindfulness & Mental Health Deutschland",
+  "tone": "ruhig, empathisch, wissenschaftlich untermauert — kein spiritueller Esoterik-Sprech",
+  "account_persona": "Person die selbst Burnout überstanden hat und nun evidenzbasierte Achtsamkeit teilt",
+  "disclaimer": "Kein Ersatz für professionelle psychologische Hilfe. Bei ernsthaften Problemen bitte Therapeuten aufsuchen.",
+  "image_style": "Calm minimalist mindfulness design, soft colors lavender and sage green, clean typography, nature elements abstract, German mental wellness education, peaceful aesthetic",
+  "hashtags": [
+    "#mindfulness", "#achtsamkeit", "#mentalhealth", "#mentalegesundheit", "#meditation",
+    "#selfcare", "#burnoutprävention", "#stressabbau", "#innereruhe",
+    "#achtsamkeitsdeutschland", "#mentalfitness", "#psychischegesundheit",
+    "#angst", "#angstbewältigung", "#therapie", "#wohlbefinden",
+    "#selbstfürsorge", "#ruheeinsuchen", "#ruhefinden", "#entspannung",
+    "#gedankenbalance", "#emotionen", "#achtsamkeitstraining",
+    "#mentalhealtmattes", "#stressbewältigung", "#lebensbalance",
+    "#positivedenkend", "#seelenfrieden"
+  ],
+  "content_pillars": [
+    {
+      "name": "Achtsamkeits-Übungen",
+      "description": "Konkrete 5-Minuten-Übungen für den Alltag — Atemübungen, Body Scan, etc.",
+      "has_affiliate": false
+    },
+    {
+      "name": "Stressbewältigung",
+      "description": "Wissenschaftlich belegte Techniken gegen chronischen Stress und Überforderung",
+      "has_affiliate": true
+    },
+    {
+      "name": "Schlaf & Erholung",
+      "description": "Schlafhygiene, Schlafrituale, was wirklich beim Einschlafen hilft",
+      "has_affiliate": true
+    },
+    {
+      "name": "Gedanken & Gefühle",
+      "description": "Kognitive Verzerrungen erkennen, negative Gedanken umformulieren",
+      "has_affiliate": false
+    },
+    {
+      "name": "Digital Detox",
+      "description": "Gesunder Umgang mit Social Media und Smartphones — praktische Grenzen setzen",
+      "has_affiliate": false
+    }
+  ],
+  "affiliate_ctas": {
+    "Stressbewältigung": "Meditationsapp — 30 Tage kostenlos — Link in Bio 👆",
+    "Schlaf & Erholung": "Schlaf-App kostenlos testen — Link in Bio 👆",
+    "default": "Mehr Achtsamkeits-Tipps — Link in Bio 👆"
+  }
+}

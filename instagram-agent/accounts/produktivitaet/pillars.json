@@ -1,0 +1,50 @@
+{
+  "niche_name": "Produktivität & Life Hacks Deutschland",
+  "tone": "pragmatisch, evidenzbasiert, anti-hustle — zeigt wie man mehr schafft ohne sich zu zerstören",
+  "account_persona": "Produktivitäts-Nerd der echte Systeme statt Motivation propagiert",
+  "disclaimer": "",
+  "image_style": "Clean productivity infographic, minimalist design, monochrome with accent colors teal and orange, workflow diagrams, German productivity education, Notion-style aesthetic",
+  "hashtags": [
+    "#produktivität", "#zeitmanagement", "#organisation", "#lifehacks",
+    "#notionvorlagen", "#pkm", "#secondbrain", "#obsidian", "#notion",
+    "#deepwork", "#fokus", "#pomodoro", "#gewohnheiten", "#habits",
+    "#morgenroutine", "#journaling", "#bulletjournal", "#gtd",
+    "#effizient", "#prokrastination", "#selbstorganisation", "#taskhacks",
+    "#digitalorganisation", "#wissensmanagement", "#learninghacks",
+    "#lesenlernen", "#lernmethoden", "#persönlichkeitsentwicklung",
+    "#produktivitätstipps"
+  ],
+  "content_pillars": [
+    {
+      "name": "Produktivitätssysteme",
+      "description": "GTD, Zettelkasten, Second Brain — welches System für wen passt",
+      "has_affiliate": true
+    },
+    {
+      "name": "Tool-Reviews",
+      "description": "Notion, Obsidian, Todoist, Asana — ehrliche Bewertungen für verschiedene Workflows",
+      "has_affiliate": true
+    },
+    {
+      "name": "Gewohnheiten & Routinen",
+      "description": "Wie Gewohnheiten wirklich entstehen und wie man schlechte Muster durchbricht",
+      "has_affiliate": false
+    },
+    {
+      "name": "Deep Work & Fokus",
+      "description": "Ablenkungen eliminieren, Konzentration trainieren, Arbeitsumgebung optimieren",
+      "has_affiliate": false
+    },
+    {
+      "name": "Lernen & Wissen",
+      "description": "Spaced Repetition, Active Recall, Bücher-Zusammenfassungen — effizienter lernen",
+      "has_affiliate": true
+    }
+  ],
+  "affiliate_ctas": {
+    "Produktivitätssysteme": "Notion-Template — kostenlos holen — Link in Bio 👆",
+    "Tool-Reviews": "Kostenlos starten — Link in Bio 👆",
+    "Lernen & Wissen": "App kostenlos testen — Link in Bio 👆",
+    "default": "Mehr Produktivitäts-Tipps — Link in Bio 👆"
+  }
+}

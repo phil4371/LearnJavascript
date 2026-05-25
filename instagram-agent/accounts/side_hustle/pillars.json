@@ -1,0 +1,49 @@
+{
+  "niche_name": "Side Hustle & Online Geld verdienen Deutschland",
+  "tone": "pragmatisch, ehrlich, realistisch — kein Get-Rich-Quick, echte Strategien",
+  "account_persona": "Vollzeit-Angestellter der nebenher online Geld verdient und darüber ehrlich berichtet",
+  "disclaimer": "Individuelle Ergebnisse können variieren. Eigener Einsatz erforderlich.",
+  "image_style": "Motivational income infographic, clean modern design, green and dark blue color scheme, money and productivity visualization, German entrepreneurship education",
+  "hashtags": [
+    "#sidehustle", "#onlinegeldverdienen", "#nebenverdienst", "#passiveseinkommen",
+    "#freelancing", "#selbstständig", "#homeoffice", "#digitalenomad",
+    "#onlinebusiness", "#dropshipping", "#affiliatemarketing", "#contentcreator",
+    "#geldverdienen", "#nebenjob", "#finanziellefeiheit", "#onlineeinnahmen",
+    "#mehreinnahmen", "#nebenberuflichselbstständig", "#dienstleistungen",
+    "#fiverrfreelancer", "#upwork", "#etsy", "#printondermand", "#youtube",
+    "#onlinemarketing", "#solopreneur", "#selbermachengeld", "#geldsparen"
+  ],
+  "content_pillars": [
+    {
+      "name": "Freelancing",
+      "description": "Fiverr, Upwork, Malt — wie man als Freelancer startet und Kunden findet",
+      "has_affiliate": true
+    },
+    {
+      "name": "Digitale Produkte",
+      "description": "E-Books, Kurse, Vorlagen verkaufen — Schritt für Schritt",
+      "has_affiliate": true
+    },
+    {
+      "name": "Affiliate-Marketing",
+      "description": "Wie Affiliate-Marketing wirklich funktioniert — ohne Spam",
+      "has_affiliate": false
+    },
+    {
+      "name": "Content-Monetarisierung",
+      "description": "YouTube, Newsletter, Podcast monetarisieren — realistische Zeitrahmen",
+      "has_affiliate": false
+    },
+    {
+      "name": "Tools & Ressourcen",
+      "description": "Kostenlose und günstige Tools für den Nebenverdienst-Start",
+      "has_affiliate": true
+    }
+  ],
+  "affiliate_ctas": {
+    "Freelancing": "Jetzt kostenlos anmelden — Link in Bio 👆",
+    "Digitale Produkte": "Plattform-Link in Bio 👆",
+    "Tools & Ressourcen": "Kostenlos testen — Link in Bio 👆",
+    "default": "Mehr Side-Hustle-Ideen — Link in Bio 👆"
+  }
+}
